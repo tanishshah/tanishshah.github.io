@@ -1,0 +1,22 @@
+Many of the images used in this website are not mine. The links to the original sources can be found below:
+
+Github
+https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg
+
+GoogleDrive
+https://commons.wikimedia.org/wiki/File:Logo_of_Google_Drive.svg
+
+Mail
+https://commons.wikimedia.org/wiki/File:Mail_(iOS).svg
+
+C++ Logo
+https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg
+
+Leaflet Logo
+https://commons.wikimedia.org/wiki/File:Leaflet_logo.svg
+
+OpenCV logo
+https://commons.wikimedia.org/wiki/File:OpenCV_Logo_with_text_svg_version.svg
+
+MongoDB logo
+https://commons.wikimedia.org/wiki/File:MongoDB_Logo.svg

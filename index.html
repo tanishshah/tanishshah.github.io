@@ -1,0 +1,112 @@
+<!-- Tanish Shah -->>
+<!-- Code for my website, modified to be a single page-->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Tanish's Website</title>
+<link rel="stylesheet" href="styles.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<div>
+  <ul id="nav">
+    <li><a id ="navi" href="#projs">Projects</a></li>
+    <li><a id="navi" href="#skill">Skills</a></li>
+    <li><a id = "navi" href="#abme">About Me</a></li>
+    <li><a id = "navi" href="index.html">Home</a></li>
+  </ul>
+</div>
+  
+<div class="container">
+  <div class ="main">
+    <div class ="intro">
+      <h1 class="title">Tanish Shah</h1>
+      <p class="text">  Hello there! Welcome to my website where you can find about about some of my technical skills and projects.
+        I hope you enjoy your time here and thank you for visiting my site.
+      </p>
+    </div>
+    <div id = "skill">
+      <h1 class="title">Skills</h1>
+      <p class="text">Here you can check out some of the skills that I have developed over the years.</p>
+      <div class="grid-container">
+        <div class="grid-item">
+          <h1 class="ghead">Electronics</h1>
+          <p class="gtext">
+            I have learned to prototype circuits using a breadboard as well as soldering components to build working circuits. Additionally, I have used 
+            Altium Desginer and Altium365 for working with different circuits, some of which can be found on my google drive. I also have experience using LTSPICE to simulate various circuits.
+          </p>
+          <img src="./images/circuit.JPG" height="250px" width="250px" class="gImgs">
+        </div>
+        <div class="grid-item">
+          <h1 class="ghead">CAD</h1>
+          <p class="gtext">
+            I have gained some experience in CAD software including AutoCAD and Solidworks, Using AutoCAD I have created various 2-D drawings; some of which were used to laser cut components. I have also
+            used Solidworks to make 3-D components, assemblies, and even drawings. To see some of the models
+            visit the google drive folder.
+          </p>
+          <img src="./images/lamp.png" height="250px" width="250px" class="gImgs">
+        </div>  
+        <div class="grid-item">
+          <h1 class="ghead">Programming</h1>
+          <p class="gtext">
+            I have experience in various different programming languages including; Python, C++, HTML, CSS, JS, Bash, and MATLAB. I also have experience
+            using various tools such as MongoDB and PostgreSQL. Some of my programming projects are listed below
+            but others can be found on my github page which is linked at the bottom.
+          </p>
+          <img src="./images/cpp.png" height="250px" width="250px" class="gImgs">
+        </div>
+      </div>    
+    </div>
+    <div id="projs">
+      <h1 class="title">Projects</h1>
+      <p class="text">Here you can check out some of the projects that I have worked on. To see the code as well as other projects that I have worked on
+        check out my github page.
+      </p>
+      <div class="grid-container">
+        <div class="grid-item">
+          <h1 class="ghead">KwikEdit</h1>
+          <p class="gtext">
+            QwikEdit is a program which includes basic image manipulation tools such as rotation, image blending, and so on.
+            It was written in Python and uses OpenCV to perform various operations. The GUI was made using Tkinter.
+          </p>
+          <img src="./images/cv.png" height="250px" width="250px" class="gImgs">
+        </div>
+        <div class="grid-item">
+          <h1 class="ghead">Nutritrack</h1>
+          <p class="gtext">
+            Nutritrack is a simple calorie tracking application that was built using MongoDB, Python, and mongoengine. The program includes; user
+            verification, CRUD features for entries, and the ability to create a graph of all entries made by a user.
+          </p>
+          <img src="./images/mongo.png" height="250px" width="250px" class="gImgs">
+        </div>
+        <div class="grid-item">
+          <h1 class="ghead">Markit</h1>
+          <p class="gtext">
+            Markit is a project which allows a user to plot points using the Leaflet api. It allows for individual inputs as
+            well as file inputs. It was created using HTML5, CSS3, and JavaScript.
+          </p>
+          <img src="./images/leaflet.png" height="250px" width="250px" class="gImgs">
+        </div>  
+    </div>
+    <div id = "abme">
+      <h1 class="title">About Me</h1>
+      <p class="text">  I'm a student studying mechatronics engineering. I'm passionate about various 
+        technologies including 3-D printing, robotics, and machine learning. I am also interested in
+        sustainable energy sources, green technologies, and improving accessibility technology. If you have 
+        any questions for me or would like to contact me, feel free to send me an email.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="links">
+  <a class="pic" href="https://drive.google.com/drive/folders/1FMmozf_0gc7jLT3_5nxL7ZULEae6Jeqy"><img src ="images/gd.png" width="52px" height="52px"></a>
+  <a class="pic"href="https://github.com/tanishshah"><img src ="images/testg.png" width="52px" height="52px"></a>
+  <a class = "pic"href="mailto:tanish01.com" ><img src ="images/mail.png" width="52px" height="52px"></a>
+</div>
+
+</body>
+</html>
