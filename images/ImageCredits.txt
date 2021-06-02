@@ -1,17 +1,21 @@
 Many of the images used in this website are not mine. The links to the original sources can be found below:
+All images were resized
 
 Github
 https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg
 Attribution: Font Awesome Free 5.4.1 by @fontawesome - https://fontawesome.com
 https://creativecommons.org/licenses/by/4.0/deed.en
+Colour changed
 
 GoogleDrive
 https://commons.wikimedia.org/wiki/File:Logo_of_Google_Drive.svg
 https://developers.google.com/drive/branding
+Colour changed
 
 Mail
 https://commons.wikimedia.org/wiki/File:Mail_(iOS).svg
 https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg
+Colour changed
 
 C++ Logo
 https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg
