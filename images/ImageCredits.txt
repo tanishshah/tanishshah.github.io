@@ -2,21 +2,42 @@ Many of the images used in this website are not mine. The links to the original 
 
 Github
 https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg
+Attribution: Font Awesome Free 5.4.1 by @fontawesome - https://fontawesome.com
+https://creativecommons.org/licenses/by/4.0/deed.en
 
 GoogleDrive
 https://commons.wikimedia.org/wiki/File:Logo_of_Google_Drive.svg
+https://developers.google.com/drive/branding
 
 Mail
 https://commons.wikimedia.org/wiki/File:Mail_(iOS).svg
+https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg
 
 C++ Logo
 https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg
+Jeremy Kratz - https://github.com/isocpp/logos
 
 Leaflet Logo
 https://commons.wikimedia.org/wiki/File:Leaflet_logo.svg
-
+Vladimir Agafonkin - https://github.com/Leaflet/Leaflet/blob/master/src/images/logo.svg
+ Copyright © 2010-2016 Vladimir Agafonkin, CloudMade
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+    Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    
 OpenCV logo
 https://commons.wikimedia.org/wiki/File:OpenCV_Logo_with_text_svg_version.svg
+Adi Shavit - http://opencv.willowgarage.com/wiki/OpenCVLogo
+Copyright © The author
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+    Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials   provided with the distribution.
+    Neither the name of The author nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+This software is provided by The author and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall The author and contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+
 
 MongoDB logo
 https://commons.wikimedia.org/wiki/File:MongoDB_Logo.svg
+MongoDB, Inc. - https://www.mongodb.com/brand-resources
+Attribution: https://www.mongodb.com/legal/trademark-usage-guidelines
