@@ -1,3 +1,4 @@
-# tanishshah.github.io
+# Tanish Shah Personal Website
 
-This is the code for my personal website
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
