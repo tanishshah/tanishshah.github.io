@@ -7,13 +7,24 @@ function Caro(props) {
         <div className="caro">
             <Carousel>
                 <Carousel.Item interval={4000}>
-                    <img className="d-block w-100" src={props.im1} alt="First slide"/>
+                    <video width="640" height="360" controls>
+                        <source src={props.vid1} type="video/mp4"></source>
+                    </video> 
                 </Carousel.Item>
                 <Carousel.Item interval={4000}>
-                    <img className="d-block w-100" src={props.im2} alt="Second slide"/>
+                    <video width="640" height="360" controls>
+                        <source src={props.vid2} type="video/mp4"></source>
+                    </video> 
                 </Carousel.Item>
                 <Carousel.Item interval={4000}>
-                    <img className="d-block w-100" src={props.im3} alt="Third slide"/>
+                    <video width="640" height="360" controls>
+                        <source src={props.vid3} type="video/mp4"></source>
+                    </video> 
+                </Carousel.Item>
+                <Carousel.Item interval={4000}>
+                    <video width="640" height="360" controls>
+                        <source src={props.vid4} type="video/mp4"></source>
+                    </video> 
                 </Carousel.Item>
             </Carousel>
         </div>

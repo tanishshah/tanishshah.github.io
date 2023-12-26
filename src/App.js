@@ -1,18 +1,17 @@
 import './App.css';
-import Navi from "./Components/Navi";
+import NavbarComp from "./Components/NavbarComp";
 import Intro from "./Components/Intro";
-import Skills from "./Components/Skills";
-import Projects from "./Components/Projects";
 import About from "./Components/About";
-
+import Research from './Components/Research';
+import Experience from './Components/Experience';
 function App() {
   return (
     <div className="App">
-      <Navi/> 
+      <NavbarComp/> 
       <Intro/>
       <About/>
-      <Skills/>
-      <Projects/>
+      <Experience/>
+      <Research/>
     </div>
   );
 }

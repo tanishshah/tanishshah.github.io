@@ -1,0 +1,7 @@
+CVISS->https://cviss.net/
+SIRRL->https://uwaterloo.ca/social-intelligent-robotics-research-lab/
+HXL ->https://uwaterloo.ca/haptic-experience-lab/
+
+Amazon logo->https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/640px-Amazon_logo.svg.png
+Nvidia logo->https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/640px-NVIDIA_logo.svg.png
+Evertz logo->https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Evertz_Microsystems_logo.svg/640px-Evertz_Microsystems_logo.svg.png

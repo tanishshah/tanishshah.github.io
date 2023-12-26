@@ -10,7 +10,7 @@ function Subsec(props) {
                     <Card.Img variant="top" src={props.im1} />
                     <Card.Body>
                         <Card.Title style={{textAlign:"center"}}>{props.title1}</Card.Title>
-                        <Card.Text>
+                        <Card.Text style={{textAlign:"justify"}}>
                             {props.text1}
                         </Card.Text>
                     </Card.Body>
@@ -19,7 +19,7 @@ function Subsec(props) {
                     <Card.Img variant="top" src={props.im2} />
                     <Card.Body>
                         <Card.Title style={{textAlign:"center"}}>{props.title2}</Card.Title>
-                        <Card.Text>
+                        <Card.Text style={{textAlign:"justify"}}>
                             {props.text2}
                         </Card.Text>
                     </Card.Body>
@@ -28,7 +28,7 @@ function Subsec(props) {
                     <Card.Img variant="top" src={props.im3} />
                     <Card.Body>
                         <Card.Title style={{textAlign:"center"}}>{props.title3}</Card.Title>
-                        <Card.Text>
+                        <Card.Text style={{textAlign:"justify"}}>
                             {props.text3}
                         </Card.Text>
                     </Card.Body>
